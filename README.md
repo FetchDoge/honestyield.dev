@@ -2,7 +2,7 @@
 
 **Publishes the honest-yield rule: no admitted before-and-after run pair, no savings number.**
 
-[![CI](https://github.com/marsojuji-cmyk/honestyield.dev/actions/workflows/ci.yml/badge.svg)](https://github.com/marsojuji-cmyk/honestyield.dev/actions/workflows/ci.yml)
+[![CI](https://github.com/FetchDoge/honestyield.dev/actions/workflows/ci.yml/badge.svg)](https://github.com/FetchDoge/honestyield.dev/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **No pair, no number.** Honest yield means **yield you can prove**. Any claim that a system saves tokens, money or time must cite an admitted run pair: a before-and-after measurement on the same workload under stated conditions. Without one, the savings number is null. Negative results are valid ledger entries.
@@ -20,7 +20,7 @@ The Rule is a standard for people making claims; it is not enforced by code. Wha
 ## Quickstart
 
 ```bash
-git clone https://github.com/marsojuji-cmyk/honestyield.dev && cd honestyield.dev
+git clone https://github.com/FetchDoge/honestyield.dev && cd honestyield.dev
 python3 scripts/check.py      # what CI runs
 open index.html               # plain HTML, no build step
 ```
