@@ -79,6 +79,8 @@ A run pair enters the ledger only under the Rule: same workload, stated conditio
 
 Rule v1.0 is a draft. The ledger has format examples only, and the site is not yet deployed.
 
+Built by Marcus Richards, directing AI coding agents.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
